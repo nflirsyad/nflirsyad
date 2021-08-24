@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Rizki Muhammad Naufal Irsyad**.\
+My name is **Rizki Muhammad Naufal Irsyad**.
 
 <!--
 **nflirsyad/nflirsyad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
